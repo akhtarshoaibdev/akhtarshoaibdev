@@ -1,4 +1,4 @@
-# Hi, I'm Shoaib 👋
+# Hi, I'm Shoaib 
 
 🚀 Aspiring Full Stack Developer | Building 3D Web Experiences
 
